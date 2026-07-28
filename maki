@@ -8,3 +8,6 @@ def add_numbers(num1, num2):
 # Call the function and print the result using an f-string
 result = add_numbers(5, 7)
 print(f"The sum of 5 and 7 is: {result}")
+
+
+developer 2 written code 
